@@ -16,7 +16,7 @@
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.31",
     "dotenv": "^8.0.0",
-    "element-ui": "^2.13.2",
+    "element-ui": "^2.15.1",
     "express": "^4.16.4",
     "log4js": "^4.2.0",
     "mathjs": "^5.10.0",
